@@ -1,0 +1,22 @@
+{
+  "reaction": "🫦",
+  "reaction_status": "on",
+  "group": {
+    "status": "on",
+    "newSubject": "مزروف الكنج",
+    "newDescription": "تم زرف جروبكم بسبب غبائكم الكنج يمر من هنا\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  },
+  "messages": {
+    "status": "on",
+    "mention": "الكنج اقوى يوتيوبر",
+    "final": "تبي تعرف كيف انزرفت؟ دا بسبب غبائكم يا حمقى\n\n\n"
+  },
+  "media": {
+    "status": "off",
+    "image": "image.jpeg"
+  },
+  "audio": {
+    "file": "data/AUDIO.mp3",
+    "status": "off"
+  }
+}
